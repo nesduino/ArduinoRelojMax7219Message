@@ -1,6 +1,6 @@
 // Reloj con segundero visualizado en Matrix de LED Max7219 cargado en Arduino Uno
-// Primer versión del proyecto
-
+// Primer versión del proyecto IOT
+// Usando bases de proyecto existente
 // Barracas 20/07/2020 - Kern Néstor
 
 // Program to demonstrate the MD_Parola library
